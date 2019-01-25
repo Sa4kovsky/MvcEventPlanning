@@ -1,0 +1,17 @@
+﻿@using Domain.Entities
+@model IEnumerable<Participant>
+
+@{
+    ViewBag.Title = "Participants";
+}
+
+@foreach (var p in @Model)
+{
+    <div>
+        <h3>@p.Name - @p.Surname - @p.Age</h3>
+        <p>@p.Description</p>
+        <h4>@p.Email</h4>
+        <hr />
+    </div>
+}
+

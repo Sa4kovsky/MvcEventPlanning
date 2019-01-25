@@ -1,0 +1,42 @@
+﻿@model Domain.Entities.Participant
+
+@{
+    ViewBag.Title = "Забронировать места";
+}
+
+<h2>Оформить заказ сейчас</h2>
+<p>Пожалуйста введи ваши контактные данные</p>
+
+@using (Html.BeginForm())
+{
+    @Html.ValidationSummary();
+
+    <h3>Данные</h3>
+
+    <div class="form-group">
+        <label>Ваше имя:</label>
+        @Html.TextBoxFor(x => x.Name, new { @class = "form-control" })
+    </div>
+
+    <h3>Фамилия</h3>
+    <div class="form-group">
+        <label>Ваша Фамилия:</label>
+        @Html.TextBoxFor(x => x.Surname, new { @class = "form-control" })
+    </div>
+    <div class="form-group">
+        <label>Укажите Email:</label>
+        @Html.TextBoxFor(x => x.Email, new { @class = "form-control" })
+    </div>
+    <div class="form-group">
+        <label>Укажите возраст:</label>
+        @Html.TextBoxFor(x => x.Age, new { @class = "form-control" })
+    </div>
+    <div class="form-group">
+        <label>Дополнительная информация:</label>
+        @Html.TextBoxFor(x => x.Description, new { @class = "form-control" })
+    </div>
+
+    <div class="text-center">
+        <input class="btn btn-primary" type="submit" value="Обработать заказ" />
+    </div>
+}

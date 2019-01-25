@@ -1,0 +1,63 @@
+﻿@using Domain.Entities
+@using PagedList.Mvc;
+@model PagedList.IPagedList<Activity>
+
+<link href="~/Content/PagedList.css" rel="stylesheet" type="text/css" />
+
+@{
+    ViewBag.Title = "Мероприятия";
+}
+
+@foreach (var item in Model)
+{
+<div class="well">
+    <div class="row">
+        <div class="col-xs-10">
+            <h3>
+                <strong> @Html.DisplayFor(modelItem => item.NameEvent) </strong>
+            </h3>
+            <h4>
+                <strong> Дата проведения:  @Html.DisplayFor(modelItem => item.DataTime) </strong>
+            </h4>
+        </div>
+
+        <div class="col-xs-2">
+            <h3>
+                <span class="pull-right">
+                    Количество мест:
+                    <strong class="pull-right label label-primary">
+
+                        @((item.NumberSeats - item.Subscriptions.Count))
+                    </strong>
+                </span>
+            </h3>
+        </div>
+    </div>
+    <h3>
+        <span class="lead"> @Html.DisplayFor(modelItem => item.Description)</span>
+    </h3>
+
+    @using (Html.BeginForm("AddToCart", "Cart"))
+    {
+        if ((item.NumberSeats - item.Subscriptions.Count) > 0)
+        {
+            <div class="pull-right">
+                @Html.Hidden("activityId", item.ActivityId)
+                @Html.Hidden("returnUrl", Request.Url.PathAndQuery)
+                <input type="submit" class="btn btn-success" value="Добавить в корзину" />
+            </div>
+        }
+        else
+        {
+            <div class="pull-right">
+            <input type="submit" class="btn btn-danger" value="Добавить в корзину" disabled />
+            </div>
+        }
+    }
+</div>
+}
+
+<br />
+Страница @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) из @Model.PageCount
+
+@Html.PagedListPager(Model, page => Url.Action("List", new { page }))

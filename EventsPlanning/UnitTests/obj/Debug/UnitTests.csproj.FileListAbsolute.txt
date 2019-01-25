@@ -1,0 +1,70 @@
+c:\users\admin\documents\visual studio 2013\Projects\BookStore\UnitTests\bin\Debug\UnitTests.dll.config
+c:\users\admin\documents\visual studio 2013\Projects\BookStore\UnitTests\bin\Debug\UnitTests.dll
+c:\users\admin\documents\visual studio 2013\Projects\BookStore\UnitTests\bin\Debug\UnitTests.pdb
+c:\users\admin\documents\visual studio 2013\Projects\BookStore\UnitTests\bin\Debug\Domain.dll
+c:\users\admin\documents\visual studio 2013\Projects\BookStore\UnitTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+c:\users\admin\documents\visual studio 2013\Projects\BookStore\UnitTests\bin\Debug\Moq.dll
+c:\users\admin\documents\visual studio 2013\Projects\BookStore\UnitTests\bin\Debug\Ninject.dll
+c:\users\admin\documents\visual studio 2013\Projects\BookStore\UnitTests\bin\Debug\Ninject.Web.Common.dll
+c:\users\admin\documents\visual studio 2013\Projects\BookStore\UnitTests\bin\Debug\Ninject.Web.Mvc.dll
+c:\users\admin\documents\visual studio 2013\Projects\BookStore\UnitTests\bin\Debug\System.Web.Helpers.dll
+c:\users\admin\documents\visual studio 2013\Projects\BookStore\UnitTests\bin\Debug\System.Web.Mvc.dll
+c:\users\admin\documents\visual studio 2013\Projects\BookStore\UnitTests\bin\Debug\System.Web.Razor.dll
+c:\users\admin\documents\visual studio 2013\Projects\BookStore\UnitTests\bin\Debug\System.Web.WebPages.Deployment.dll
+c:\users\admin\documents\visual studio 2013\Projects\BookStore\UnitTests\bin\Debug\System.Web.WebPages.dll
+c:\users\admin\documents\visual studio 2013\Projects\BookStore\UnitTests\bin\Debug\System.Web.WebPages.Razor.dll
+c:\users\admin\documents\visual studio 2013\Projects\BookStore\UnitTests\bin\Debug\WebActivatorEx.dll
+c:\users\admin\documents\visual studio 2013\Projects\BookStore\UnitTests\bin\Debug\WebUI.dll
+c:\users\admin\documents\visual studio 2013\Projects\BookStore\UnitTests\bin\Debug\Domain.pdb
+c:\users\admin\documents\visual studio 2013\Projects\BookStore\UnitTests\bin\Debug\WebUI.pdb
+c:\users\admin\documents\visual studio 2013\Projects\BookStore\UnitTests\bin\Debug\Moq.xml
+c:\users\admin\documents\visual studio 2013\Projects\BookStore\UnitTests\bin\Debug\Ninject.xml
+c:\users\admin\documents\visual studio 2013\Projects\BookStore\UnitTests\bin\Debug\Ninject.Web.Common.xml
+c:\users\admin\documents\visual studio 2013\Projects\BookStore\UnitTests\bin\Debug\Ninject.Web.Mvc.xml
+c:\users\admin\documents\visual studio 2013\Projects\BookStore\UnitTests\bin\Debug\System.Web.Helpers.xml
+c:\users\admin\documents\visual studio 2013\Projects\BookStore\UnitTests\bin\Debug\System.Web.Mvc.xml
+c:\users\admin\documents\visual studio 2013\Projects\BookStore\UnitTests\bin\Debug\System.Web.Razor.xml
+c:\users\admin\documents\visual studio 2013\Projects\BookStore\UnitTests\bin\Debug\System.Web.WebPages.xml
+c:\users\admin\documents\visual studio 2013\Projects\BookStore\UnitTests\bin\Debug\System.Web.WebPages.Deployment.xml
+c:\users\admin\documents\visual studio 2013\Projects\BookStore\UnitTests\bin\Debug\System.Web.WebPages.Razor.xml
+c:\users\admin\documents\visual studio 2013\Projects\BookStore\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\BookStore\UnitTests\obj\Debug\UnitTests.dll
+c:\users\admin\documents\visual studio 2013\Projects\BookStore\UnitTests\obj\Debug\UnitTests.pdb
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning\UnitTests\bin\Debug\UnitTests.dll.config
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning\UnitTests\bin\Debug\UnitTests.dll
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning\UnitTests\bin\Debug\UnitTests.pdb
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning\UnitTests\bin\Debug\Domain.dll
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning\UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning\UnitTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning\UnitTests\bin\Debug\Moq.dll
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning\UnitTests\bin\Debug\Ninject.dll
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning\UnitTests\bin\Debug\Ninject.Web.Common.dll
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning\UnitTests\bin\Debug\Ninject.Web.Mvc.dll
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning\UnitTests\bin\Debug\System.Web.Helpers.dll
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning\UnitTests\bin\Debug\System.Web.Mvc.dll
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning\UnitTests\bin\Debug\System.Web.Razor.dll
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning\UnitTests\bin\Debug\System.Web.WebPages.Deployment.dll
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning\UnitTests\bin\Debug\System.Web.WebPages.dll
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning\UnitTests\bin\Debug\System.Web.WebPages.Razor.dll
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning\UnitTests\bin\Debug\WebActivatorEx.dll
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning\UnitTests\bin\Debug\WebUI.dll
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning\UnitTests\bin\Debug\Domain.pdb
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning\UnitTests\bin\Debug\Domain.dll.config
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning\UnitTests\bin\Debug\WebUI.pdb
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning\UnitTests\bin\Debug\WebUI.dll.config
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning\UnitTests\bin\Debug\Moq.xml
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning\UnitTests\bin\Debug\Ninject.xml
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning\UnitTests\bin\Debug\Ninject.Web.Common.xml
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning\UnitTests\bin\Debug\Ninject.Web.Mvc.xml
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning\UnitTests\bin\Debug\System.Web.Helpers.xml
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning\UnitTests\bin\Debug\System.Web.Mvc.xml
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning\UnitTests\bin\Debug\System.Web.Razor.xml
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning\UnitTests\bin\Debug\System.Web.WebPages.xml
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning\UnitTests\bin\Debug\System.Web.WebPages.Deployment.xml
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning\UnitTests\bin\Debug\System.Web.WebPages.Razor.xml
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning\UnitTests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning\UnitTests\obj\Debug\UnitTests.csproj.CoreCompileInputs.cache
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning\UnitTests\obj\Debug\UnitTests.csproj.CopyComplete
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning\UnitTests\obj\Debug\UnitTests.dll
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning\UnitTests\obj\Debug\UnitTests.pdb

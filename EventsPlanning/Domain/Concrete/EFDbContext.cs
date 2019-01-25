@@ -1,0 +1,17 @@
+﻿using Domain.Entities;
+using System;
+using System.Collections.Generic;
+using System.Data.Entity;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Domain.Concrete
+{
+    public class EFDbContext : DbContext
+    {
+        public DbSet<Activity> Activities { get; set; }
+        public DbSet<Participant> Participants { get; set; }
+        public DbSet<Subscription> Subscriptions { get; set; }
+    }
+}

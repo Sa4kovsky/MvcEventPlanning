@@ -1,0 +1,166 @@
+c:\users\admin\documents\visual studio 2013\Projects\BookStore\WebUI\bin\WebUI.dll.config
+c:\users\admin\documents\visual studio 2013\Projects\BookStore\WebUI\bin\WebUI.dll
+c:\users\admin\documents\visual studio 2013\Projects\BookStore\WebUI\bin\WebUI.pdb
+c:\users\admin\documents\visual studio 2013\Projects\BookStore\WebUI\bin\Domain.dll
+c:\users\admin\documents\visual studio 2013\Projects\BookStore\WebUI\bin\Moq.dll
+c:\users\admin\documents\visual studio 2013\Projects\BookStore\WebUI\bin\Ninject.dll
+c:\users\admin\documents\visual studio 2013\Projects\BookStore\WebUI\bin\Ninject.Web.Common.dll
+c:\users\admin\documents\visual studio 2013\Projects\BookStore\WebUI\bin\Ninject.Web.Mvc.dll
+c:\users\admin\documents\visual studio 2013\Projects\BookStore\WebUI\bin\System.Web.Helpers.dll
+c:\users\admin\documents\visual studio 2013\Projects\BookStore\WebUI\bin\System.Web.Mvc.dll
+c:\users\admin\documents\visual studio 2013\Projects\BookStore\WebUI\bin\System.Web.Razor.dll
+c:\users\admin\documents\visual studio 2013\Projects\BookStore\WebUI\bin\System.Web.Webpages.Deployment.dll
+c:\users\admin\documents\visual studio 2013\Projects\BookStore\WebUI\bin\System.Web.Webpages.dll
+c:\users\admin\documents\visual studio 2013\Projects\BookStore\WebUI\bin\System.Web.Webpages.Razor.dll
+c:\users\admin\documents\visual studio 2013\Projects\BookStore\WebUI\bin\WebActivatorEx.dll
+c:\users\admin\documents\visual studio 2013\Projects\BookStore\WebUI\bin\Domain.pdb
+c:\users\admin\documents\visual studio 2013\Projects\BookStore\WebUI\bin\Moq.xml
+c:\users\admin\documents\visual studio 2013\Projects\BookStore\WebUI\bin\Ninject.xml
+c:\users\admin\documents\visual studio 2013\Projects\BookStore\WebUI\bin\Ninject.Web.Common.xml
+c:\users\admin\documents\visual studio 2013\Projects\BookStore\WebUI\bin\Ninject.Web.Mvc.xml
+c:\users\admin\documents\visual studio 2013\Projects\BookStore\WebUI\bin\System.Web.Razor.xml
+c:\users\admin\documents\visual studio 2013\Projects\BookStore\WebUI\bin\System.Web.Webpages.xml
+c:\users\admin\documents\visual studio 2013\Projects\BookStore\WebUI\bin\System.Web.Webpages.Deployment.xml
+c:\users\admin\documents\visual studio 2013\Projects\BookStore\WebUI\bin\System.Web.Webpages.Razor.xml
+c:\users\admin\documents\visual studio 2013\Projects\BookStore\WebUI\bin\System.Web.Helpers.xml
+c:\users\admin\documents\visual studio 2013\Projects\BookStore\WebUI\bin\System.Web.Mvc.xml
+c:\users\admin\documents\visual studio 2013\Projects\BookStore\WebUI\obj\Debug\WebUI.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\BookStore\WebUI\obj\Debug\WebUI.dll
+c:\users\admin\documents\visual studio 2013\Projects\BookStore\WebUI\obj\Debug\WebUI.pdb
+c:\users\admin\documents\visual studio 2013\Projects\BookStore\WebUI\bin\EntityFramework.dll
+c:\users\admin\documents\visual studio 2013\Projects\BookStore\WebUI\bin\EntityFramework.SqlServer.dll
+c:\users\admin\documents\visual studio 2013\Projects\BookStore\WebUI\bin\EntityFramework.xml
+c:\users\admin\documents\visual studio 2013\Projects\BookStore\WebUI\bin\EntityFramework.SqlServer.xml
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\BookStore\WebUI\obj\Debug\WebUI.csprojResolveAssemblyReference.cache
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\BookStore\WebUI\obj\Debug\WebUI.csproj.CoreCompileInputs.cache
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\BookStore\WebUI\obj\Debug\WebUI.dll
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\BookStore\WebUI\obj\Debug\WebUI.pdb
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\BookStore\WebUI\bin\WebUI.dll.config
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\BookStore\WebUI\bin\WebUI.dll
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\BookStore\WebUI\bin\WebUI.pdb
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\BookStore\WebUI\bin\Domain.dll
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\BookStore\WebUI\bin\EntityFramework.dll
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\BookStore\WebUI\bin\EntityFramework.SqlServer.dll
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\BookStore\WebUI\bin\Microsoft.Web.Infrastructure.dll
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\BookStore\WebUI\bin\Moq.dll
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\BookStore\WebUI\bin\Ninject.dll
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\BookStore\WebUI\bin\Ninject.Web.Common.dll
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\BookStore\WebUI\bin\Ninject.Web.Mvc.dll
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\BookStore\WebUI\bin\System.Web.Helpers.dll
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\BookStore\WebUI\bin\System.Web.Mvc.dll
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\BookStore\WebUI\bin\System.Web.Razor.dll
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\BookStore\WebUI\bin\System.Web.Webpages.Deployment.dll
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\BookStore\WebUI\bin\System.Web.Webpages.dll
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\BookStore\WebUI\bin\System.Web.Webpages.Razor.dll
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\BookStore\WebUI\bin\WebActivatorEx.dll
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\BookStore\WebUI\bin\Domain.pdb
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\BookStore\WebUI\bin\Domain.dll.config
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\BookStore\WebUI\bin\EntityFramework.xml
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\BookStore\WebUI\bin\EntityFramework.SqlServer.xml
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\BookStore\WebUI\bin\Moq.xml
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\BookStore\WebUI\bin\Ninject.xml
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\BookStore\WebUI\bin\Ninject.Web.Common.xml
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\BookStore\WebUI\bin\Ninject.Web.Mvc.xml
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\BookStore\WebUI\bin\System.Web.Razor.xml
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\BookStore\WebUI\bin\System.Web.Webpages.xml
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\BookStore\WebUI\bin\System.Web.Webpages.Deployment.xml
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\BookStore\WebUI\bin\System.Web.Webpages.Razor.xml
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\BookStore\WebUI\bin\System.Web.Helpers.xml
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\BookStore\WebUI\bin\System.Web.Mvc.xml
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\BookStore\WebUI\obj\Debug\WebUI.csproj.CopyComplete
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning\WebUI\obj\Debug\WebUI.csprojResolveAssemblyReference.cache
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning\WebUI\obj\Debug\WebUI.csproj.CoreCompileInputs.cache
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning\WebUI\obj\Debug\WebUI.dll
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning\WebUI\obj\Debug\WebUI.pdb
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning\WebUI\bin\WebUI.dll.config
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning\WebUI\bin\WebUI.dll
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning\WebUI\bin\WebUI.pdb
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning\WebUI\bin\Domain.dll
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning\WebUI\bin\EntityFramework.dll
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning\WebUI\bin\EntityFramework.SqlServer.dll
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning\WebUI\bin\Microsoft.Web.Infrastructure.dll
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning\WebUI\bin\Moq.dll
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning\WebUI\bin\Ninject.dll
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning\WebUI\bin\Ninject.Web.Common.dll
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning\WebUI\bin\Ninject.Web.Mvc.dll
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning\WebUI\bin\System.Web.Helpers.dll
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning\WebUI\bin\System.Web.Mvc.dll
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning\WebUI\bin\System.Web.Razor.dll
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning\WebUI\bin\System.Web.Webpages.Deployment.dll
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning\WebUI\bin\System.Web.Webpages.dll
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning\WebUI\bin\System.Web.Webpages.Razor.dll
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning\WebUI\bin\WebActivatorEx.dll
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning\WebUI\bin\Domain.pdb
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning\WebUI\bin\Domain.dll.config
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning\WebUI\bin\EntityFramework.xml
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning\WebUI\bin\EntityFramework.SqlServer.xml
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning\WebUI\bin\Moq.xml
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning\WebUI\bin\Ninject.xml
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning\WebUI\bin\Ninject.Web.Common.xml
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning\WebUI\bin\Ninject.Web.Mvc.xml
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning\WebUI\bin\System.Web.Razor.xml
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning\WebUI\bin\System.Web.Webpages.xml
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning\WebUI\bin\System.Web.Webpages.Deployment.xml
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning\WebUI\bin\System.Web.Webpages.Razor.xml
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning\WebUI\bin\System.Web.Helpers.xml
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning\WebUI\bin\System.Web.Mvc.xml
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning\WebUI\obj\Debug\WebUI.csproj.CopyComplete
+E:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning\WebUI\bin\PagedList.dll
+E:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning\WebUI\bin\PagedList.Mvc.dll
+E:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning\WebUI\bin\PagedList.xml
+E:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning\WebUI\bin\PagedList.Mvc.xml
+E:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning\WebUI\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning\WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning\WebUI\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning\WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning — копия\WebUI\bin\WebUI.dll.config
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning — копия\WebUI\bin\WebUI.dll
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning — копия\WebUI\bin\WebUI.pdb
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning — копия\WebUI\bin\Domain.dll
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning — копия\WebUI\bin\EntityFramework.dll
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning — копия\WebUI\bin\EntityFramework.SqlServer.dll
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning — копия\WebUI\bin\Microsoft.AspNet.Identity.Core.dll
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning — копия\WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning — копия\WebUI\bin\Microsoft.Web.Infrastructure.dll
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning — копия\WebUI\bin\Moq.dll
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning — копия\WebUI\bin\Ninject.dll
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning — копия\WebUI\bin\Ninject.Web.Common.dll
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning — копия\WebUI\bin\Ninject.Web.Mvc.dll
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning — копия\WebUI\bin\PagedList.dll
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning — копия\WebUI\bin\PagedList.Mvc.dll
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning — копия\WebUI\bin\System.Web.Helpers.dll
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning — копия\WebUI\bin\System.Web.Mvc.dll
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning — копия\WebUI\bin\System.Web.Razor.dll
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning — копия\WebUI\bin\System.Web.Webpages.Deployment.dll
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning — копия\WebUI\bin\System.Web.Webpages.dll
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning — копия\WebUI\bin\System.Web.Webpages.Razor.dll
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning — копия\WebUI\bin\WebActivatorEx.dll
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning — копия\WebUI\bin\Domain.pdb
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning — копия\WebUI\bin\Domain.dll.config
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning — копия\WebUI\bin\EntityFramework.xml
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning — копия\WebUI\bin\EntityFramework.SqlServer.xml
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning — копия\WebUI\bin\Microsoft.AspNet.Identity.Core.xml
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning — копия\WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning — копия\WebUI\bin\Moq.xml
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning — копия\WebUI\bin\Ninject.xml
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning — копия\WebUI\bin\Ninject.Web.Common.xml
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning — копия\WebUI\bin\Ninject.Web.Mvc.xml
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning — копия\WebUI\bin\PagedList.xml
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning — копия\WebUI\bin\PagedList.Mvc.xml
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning — копия\WebUI\bin\System.Web.Razor.xml
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning — копия\WebUI\bin\System.Web.Webpages.xml
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning — копия\WebUI\bin\System.Web.Webpages.Deployment.xml
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning — копия\WebUI\bin\System.Web.Webpages.Razor.xml
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning — копия\WebUI\bin\System.Web.Helpers.xml
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning — копия\WebUI\bin\System.Web.Mvc.xml
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning — копия\WebUI\obj\Debug\WebUI.csprojResolveAssemblyReference.cache
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning — копия\WebUI\obj\Debug\WebUI.csproj.CoreCompileInputs.cache
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning — копия\WebUI\obj\Debug\WebUI.csproj.CopyComplete
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning — копия\WebUI\obj\Debug\WebUI.dll
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning — копия\WebUI\obj\Debug\WebUI.pdb
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning — копия\WebUI\bin\ru\System.Web.Razor.resources.dll
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning — копия\WebUI\bin\ru\System.Web.Webpages.resources.dll
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning — копия\WebUI\bin\ru\System.Web.Webpages.Deployment.resources.dll
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning — копия\WebUI\bin\ru\System.Web.Webpages.Razor.resources.dll
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning — копия\WebUI\bin\ru\System.Web.Helpers.resources.dll
+e:\Studies\С#\miniProgects\MVC\Mvc(CBT)\EventsPlanning — копия\WebUI\bin\ru\System.Web.Mvc.resources.dll
